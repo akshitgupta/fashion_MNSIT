@@ -1,2 +1,2 @@
-# fashion_MNSIT
-CNN model to categories fashion MNSIT data
+# Fashion_data_classification
+Created a CNN model to categories fashion MNSIT data
